@@ -1,6 +1,6 @@
 # get
 
-PasteItemPlugin is a simple Bukkit/Spigot plugin that allows players to paste detailed information about the item they are holding in their main hand to [Hastebin](https://paste.md-5.net/) using the `/get` command.
+get is a simple Bukkit/Spigot plugin that allows players to paste detailed information about the item they are holding in their main hand to [Hastebin](https://paste.md-5.net/) using the `/get` command.
 
 ## Features
 - Retrieves and formats item information including:
