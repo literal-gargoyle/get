@@ -1,0 +1,13 @@
+name: get
+version: '0.01'
+main: me.literalgargoyle.get.get
+api-version: '1.21'
+load: STARTUP
+authors: [ literal-gargoyle ]
+description: An automatic kit giving plugin
+website: literal-gargoyle.github.io
+commands:
+  get:
+    description: Gets an items information and pastes it to https://paste.md-5.net/
+    usage: /get
+
