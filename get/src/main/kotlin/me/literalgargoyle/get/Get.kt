@@ -15,11 +15,11 @@ import java.nio.charset.StandardCharsets
 class get : JavaPlugin(), CommandExecutor {
     override fun onEnable() {
         getCommand("get")!!.setExecutor(this)
-        logger.info("PasteItemPlugin enabled.")
+        logger.info("Get enabled.")
     }
 
     override fun onDisable() {
-        logger.info("PasteItemPlugin disabled.")
+        logger.info("Get disabled.")
     }
 
     override fun onCommand(sender: CommandSender, command: Command, label: String, args: Array<String>): Boolean {
